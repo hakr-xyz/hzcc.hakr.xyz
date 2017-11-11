@@ -1,4 +1,4 @@
-# hzcm.hakr.xyz
+# hzwm.hakr.xyz
 
 ```bash
 git pull
